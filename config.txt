@@ -1,6 +1,6 @@
-token=MzQzNDgxNzA4ODQwMjIyNzMy.DeC1Hg.h549GNhdT1KnCa310US3DfsTcno
-owner=82997179416842240
-prefix=!
-game=my.shoemakk.com/bot
+token=process.env.token
+owner=354716386716811264
+prefix==
+game=Alpha Bots!
 stayinchannel=true
 songinstatus=true
